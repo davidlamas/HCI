@@ -1,2 +1,2 @@
-# HCI
-HCI Research Trends and Ways of Knowing
+# Notes
+David's notes
